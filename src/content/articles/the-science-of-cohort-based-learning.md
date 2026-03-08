@@ -78,7 +78,7 @@ If you're designing a cohort-based course, the research suggests several design 
 
 **Synchronous touchpoints anchor the experience.** Even in primarily asynchronous cohorts, periodic live sessions create social presence and shared identity. They don't need to be long — a 30-minute weekly check-in can anchor an entire week of asynchronous work.
 
-For a practical guide to applying these principles, see Ruzuku's [guide to cohort-based courses](https://www.ruzuku.com/learn/articles/cohort-based-courses), which translates this research into specific design patterns for course creators.
+For a practical guide to applying these principles, see Ruzuku's [guide to cohort-based courses](https://www.ruzuku.com/use-cases/cohort-courses), which translates this research into specific design patterns for course creators.
 
 ## The Completion Question
 

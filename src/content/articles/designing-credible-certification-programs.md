@@ -102,7 +102,7 @@ Certification programs have specific technical requirements that general course 
 - **Progress tracking by competency**: Students see which competencies they've demonstrated, which are in progress, which need attention
 - **Certificate generation**: Automated, professional credentials with verification
 
-[Ruzuku's course structure](https://www.ruzuku.com/use-cases/certification-programs) supports certification workflows through step-by-step progression, built-in discussion for mentor feedback, and structured activities that can serve as competency assessments. For practitioners in specific fields like energy healing, Ruzuku's [certification design guide](https://www.ruzuku.com/for/energy-healing/certification-programs-for-energy-healers) shows how these principles apply to a real certification context.
+[Ruzuku's course structure](https://www.ruzuku.com/use-cases/certification-programs) supports certification workflows through step-by-step progression, built-in discussion for mentor feedback, and structured activities that can serve as competency assessments. For practitioners in specific fields like energy healing, Ruzuku's [certification design guide](https://www.ruzuku.com/for/energy-healing/certification-program) shows how these principles apply to a real certification context.
 
 ## Ethical Considerations
 

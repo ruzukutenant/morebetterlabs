@@ -113,7 +113,7 @@ If you're designing an online course, here's how to build feedback into every le
 
 This is exactly why [Ruzuku's course structure](https://www.ruzuku.com/features) builds discussion and activity features into every step — not as optional add-ons, but as core to how courses work. When the platform makes it easy to give and receive feedback, courses naturally produce better outcomes.
 
-For practical frameworks on designing feedback-rich courses, see Ruzuku's [guide to student engagement](https://www.ruzuku.com/learn/articles/student-engagement).
+For practical frameworks on designing feedback-rich courses, see Ruzuku's [course creation resources](https://www.ruzuku.com/learn).
 
 ---
 

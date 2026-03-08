@@ -102,14 +102,14 @@ If you're pricing a course, here's a research-informed process:
 
 5. **Test and iterate.** Pricing isn't permanent. Start with your research-informed best guess, then adjust based on enrollment rates, completion rates, and student outcomes.
 
-For a structured approach to this process, Ruzuku's [course pricing calculator](https://www.ruzuku.com/tools/course-pricing-calculator) helps you work through these factors systematically. And for deeper reading, [*The Business of Courses*](https://www.ruzuku.com/learn/book) dedicates a full chapter to pricing strategy grounded in these behavioral principles.
+For a structured approach to this process, Ruzuku's [course pricing calculator](https://www.ruzuku.com/tools/course-pricing) helps you work through these factors systematically. And for deeper reading, [*The Business of Courses*](https://www.ruzuku.com/learn/book) dedicates a full chapter to pricing strategy grounded in these behavioral principles.
 
 ---
 
 <div class="callout">
   <p class="callout-title">Putting This Into Practice</p>
   <p>
-    Ruzuku's <a href="https://www.ruzuku.com/tools/course-pricing-calculator">free course pricing calculator</a> walks you through the research-backed framework described above — outcome value, market positioning, and tier design. And with <a href="https://www.ruzuku.com/pricing">zero transaction fees</a>, every dollar your students pay goes to you, not the platform.
+    Ruzuku's <a href="https://www.ruzuku.com/tools/course-pricing">free course pricing calculator</a> walks you through the research-backed framework described above — outcome value, market positioning, and tier design. And with <a href="https://www.ruzuku.com/pricing">zero transaction fees</a>, every dollar your students pay goes to you, not the platform.
   </p>
 </div>
 
