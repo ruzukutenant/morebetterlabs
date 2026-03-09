@@ -66,7 +66,7 @@ Your pilot should be designed not just to teach, but to *reveal*. Build in momen
 - **Weekly check-in points**: Brief surveys or discussion prompts that ask "What's clear? What's confusing? What are you stuck on?"
 - **Completion tracking**: Know exactly where students are in the course at all times. Where do they slow down? Where do they drop off?
 
-This connects to research on formative assessment (Black & Wiliam, 1998): feedback during the learning process, not just at the end, produces better outcomes. In a pilot, you're applying the same principle to your course design — gathering feedback *during* the course so you can adjust.
+Your [learner persona](/learning-design/the-learner-persona-method/) should inform what you observe — the four dimensions (motivation, problems, questions, needs) give you a framework for what to look for. This connects to research on formative assessment (Black & Wiliam, 1998): feedback during the learning process, not just at the end, produces better outcomes. In a pilot, you're applying the same principle to your course design — gathering feedback *during* the course so you can adjust.
 
 ### Run It Live
 

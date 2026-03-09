@@ -98,7 +98,7 @@ You don't need to be an accessibility expert to make your courses more inclusive
 
 **Chunked content.** Break lessons into distinct, manageable sections. Research on working memory (Miller, 1956; Cowan, 2001) shows that people can hold 4-7 items in working memory at once. Long, unbroken content blocks overwhelm this capacity.
 
-In designing educational systems at UNC-Chapel Hill and NC State, I've consistently observed that structural clarity — how content is organized and navigated — affects learning outcomes more than content quality. A brilliant lecture with poor structure teaches less than an adequate lecture with excellent structure. Course design follows the same pattern.
+In designing educational systems at UNC-Chapel Hill and NC State, I've consistently observed that structural clarity — how content is organized and navigated — affects learning outcomes more than content quality. A brilliant lecture with poor structure teaches less than an adequate lecture with excellent structure. Course design follows the same pattern. When content is organized around topics rather than learning paths, it creates [the Aboutness Trap](/learning-design/the-two-traps-that-kill-online-courses/) — a structural problem that accessibility practices alone can't fix.
 
 ### Assessment Accessibility
 

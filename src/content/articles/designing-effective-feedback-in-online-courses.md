@@ -108,14 +108,14 @@ My research on context-aware capture systems for education (Crystal, 2006) explo
 
 **Identical feedback for everyone.** Template responses ("Great work! Consider adding more detail.") signal to students that nobody actually read their work. Even brief personalized feedback ("Your example about the nonprofit coaching program was effective — the pricing section could use a similar concrete example") demonstrates engagement.
 
-**No peer interaction.** Even in courses where instructor feedback is the primary channel, peer interaction creates informal feedback loops. When a student sees how others approached the same assignment, they calibrate their own understanding. Discussion forums, shared workspaces, and peer review all contribute.
+**No peer interaction.** Even in courses where instructor feedback is the primary channel, peer interaction creates informal feedback loops. This is one reason [community-centered course design](/learning-design/community-as-pedagogy/) produces better outcomes — the community itself is a feedback mechanism. When a student sees how others approached the same assignment, they calibrate their own understanding. Discussion forums, shared workspaces, and peer review all contribute.
 
 ## Practical Implementation
 
 If you're designing an online course, here's how to build feedback into every lesson:
 
 1. **End each lesson with an activity**, not just content. The activity gives students something to receive feedback on.
-2. **Add a discussion prompt** that asks students to share their activity output. Peer responses become feedback.
+2. **Add a discussion prompt** that asks students to share their activity output. Peer responses become feedback. Understanding your [learner persona](/learning-design/the-learner-persona-method/) helps you design prompts that connect to your students' real situations.
 3. **Include self-assessment criteria** — a simple checklist students use to evaluate their own work before submitting.
 4. **Provide instructor feedback at milestones** — not on every activity, but at the 2-3 transition points where students most need guidance.
 5. **Use quizzes for comprehension checks**, not grading. Immediate feedback on understanding helps students identify gaps before they compound.

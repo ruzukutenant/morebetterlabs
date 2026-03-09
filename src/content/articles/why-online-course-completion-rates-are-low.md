@@ -65,7 +65,7 @@ Hattie and Timperley's 2007 review of feedback research found it has an average 
 
 Most self-paced courses provide zero feedback. You watch a video. You maybe answer a quiz. Nobody tells you if you're understanding the material correctly, and nobody helps you when you're stuck.
 
-Effective feedback doesn't have to come from the instructor alone. Peer feedback through discussion, structured peer review, and even self-assessment with reflective prompts all contribute. Our research on Memex Metadata for reflective learning (Greenberg, Crystal, et al., 2006) showed that systems designed to prompt structured reflection help learners consolidate understanding — the reflection itself is a form of feedback.
+Effective feedback doesn't have to come from the instructor alone. For a deep dive on this topic, see [Designing Effective Feedback in Online Courses](/learning-design/designing-effective-feedback-in-online-courses/). Peer feedback through discussion, structured peer review, and even self-assessment with reflective prompts all contribute. Our research on Memex Metadata for reflective learning (Greenberg, Crystal, et al., 2006) showed that systems designed to prompt structured reflection help learners consolidate understanding — the reflection itself is a form of feedback.
 
 At NC State's DESIGN Research group, I worked on design research methodology that emphasized iterative feedback in educational system design. The principle transfers directly to course design: build in feedback at every step, not just at the end.
 

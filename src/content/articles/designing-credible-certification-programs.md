@@ -68,7 +68,7 @@ A competency-based certification program starts by defining the specific compete
 - "Can design a 6-session coaching engagement with measurable milestones"
 - "Can adapt their coaching approach when a client is stuck, using at least 3 documented techniques"
 
-Each competency gets its own assessment. Students must demonstrate proficiency in all competencies to earn the certification. This is harder than a single pass/fail exam, and that's the point — the difficulty is what creates credibility.
+Each competency gets its own assessment. Students must demonstrate proficiency in all competencies to earn the certification. For a framework on defining these competencies rigorously, see [How to Define Measurable Outcomes](/learning-design/how-to-define-measurable-outcomes/). This is harder than a single pass/fail exam, and that's the point — the difficulty is what creates credibility.
 
 Teaching at UNC's School of Education, I've seen how competency frameworks transform assessment from a sorting mechanism into a learning tool. When students know exactly what competencies they need to demonstrate, they self-direct their learning toward those competencies. The framework itself teaches.
 
@@ -82,7 +82,7 @@ Different competencies require different assessment methods. The most credible c
 
 **Written analysis**: Students analyze a scenario, case study, or problem. This assesses analytical thinking and domain knowledge. Most effective when the scenarios are realistic and require application (not just recall).
 
-**Peer evaluation**: Trained peers assess each other's work against defined criteria. Research shows peer assessment is reliable when evaluators are trained and rubrics are specific (Topping, 1998). Peer evaluation also benefits the evaluator — assessing others deepens your own understanding.
+**Peer evaluation**: Trained peers assess each other's work against defined criteria. Research shows peer assessment is reliable when evaluators are trained and rubrics are specific (Topping, 1998). Peer evaluation also benefits the evaluator — assessing others deepens your own understanding. See [Designing Effective Feedback](/learning-design/designing-effective-feedback-in-online-courses/) for more on structuring peer review.
 
 **Supervised practice**: Students complete practice hours under mentor supervision. The mentor signs off on competency. This is the gold standard for professional certifications (it's how medical residencies and teaching certifications work) and can be adapted for online programs.
 

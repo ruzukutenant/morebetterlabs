@@ -40,7 +40,7 @@ Malcolm Knowles formalized the distinction between how children learn (pedagogy)
 
 **5. Orientation to Learning.** Adults are problem-centered, not subject-centered. They don't want to "learn about marketing." They want to "figure out how to get their first 10 students." Frame everything around problems to solve, not subjects to study.
 
-**6. Motivation.** While external motivators (credentials, career advancement) matter, the most potent motivators for adult learners are internal: self-esteem, quality of life, personal satisfaction. The best courses tap into intrinsic motivation — the desire to get better at something that matters to the learner.
+**6. Motivation.** While external motivators (credentials, career advancement) matter, the most potent motivators for adult learners are internal: self-esteem, quality of life, personal satisfaction. The best courses tap into intrinsic motivation — the desire to get better at something that matters to the learner. Understanding these motivations is one of the four dimensions of a [learner persona](/learning-design/the-learner-persona-method/).
 
 ## What This Means for Course Design
 

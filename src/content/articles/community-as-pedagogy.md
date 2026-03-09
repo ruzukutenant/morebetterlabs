@@ -111,6 +111,8 @@ Not every course needs a 500-person community. The principles apply at different
 
 **Large communities (50+)**: Require more structure — dedicated facilitators, sub-groups, themed discussion threads. The community itself becomes a learning resource that the instructor curates rather than creates.
 
+For more on the research behind cohort models specifically, see [The Science of Cohort-Based Learning](/learning-design/the-science-of-cohort-based-learning/).
+
 The platform matters here. Tools designed for content delivery (watch video, download PDF) don't naturally support community interaction. Tools designed for learning — with built-in discussion, peer sharing, and activity-centered design — make community the default experience.
 
 This is why [Ruzuku's architecture](https://www.ruzuku.com/how-it-works) puts discussion and peer interaction at the center of every course step, not in a separate "community" tab. When discussion is integrated into the learning flow, participation happens naturally. When it's separated, it becomes optional — and optional means empty.
@@ -133,7 +135,7 @@ In my World Class Courses workshop for Mirasee, I teach a framework for thinking
 
 Social presence means the learner feels that other people are *here*, participating alongside them. Examples: visual indicators of other learners in the course, "12 people have completed this step" counters, activity feeds showing recent posts, and acknowledgment features like "high fives."
 
-This draws directly from social learning theory — people are motivated by seeing others engaged in the same activity. It reduces the isolation that kills self-paced courses. Even passive awareness of other learners ("I can see that 8 people posted this week") creates a normative signal: *participation is expected here*.
+This draws directly from social learning theory — people are motivated by seeing others engaged in the same activity. It reduces the isolation that [drives low completion rates](/learning-design/why-online-course-completion-rates-are-low/) in self-paced courses. Even passive awareness of other learners ("I can see that 8 people posted this week") creates a normative signal: *participation is expected here*.
 
 ### Approach 2: Discussion
 

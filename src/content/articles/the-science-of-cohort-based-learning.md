@@ -69,7 +69,7 @@ In the courses I've observed through [Ruzuku](https://www.ruzuku.com/use-cases/c
 
 When students explain concepts to each other, they engage in what learning scientists call "elaborative interrogation" — generating explanations for why something is true. This is one of the most effective learning strategies identified in Dunlosky et al.'s comprehensive review (2013).
 
-Self-paced courses provide no natural opportunity for this. Cohort-based courses make it unavoidable: discussion forums, peer feedback, group exercises, and live Q&A all require students to articulate their understanding, which deepens it.
+Self-paced courses provide no natural opportunity for this. Cohort-based courses make it unavoidable: discussion forums, peer feedback, group exercises, and live Q&A all require students to articulate their understanding, which deepens it. For a deeper exploration of designing these interactions, see [Community as Pedagogy](/learning-design/community-as-pedagogy/).
 
 Our research on reflective learning systems (Greenberg, Crystal, Sharma, et al., 2006) explored how structured metadata and reflection prompts help learners process and retain information. The finding was clear: learning systems that prompt active reflection — not just passive consumption — produce measurably better outcomes. Cohort structures are the most natural way to create these reflection opportunities at scale.
 
@@ -91,7 +91,7 @@ For a practical guide to applying these principles, see Ruzuku's [guide to cohor
 
 The most frequently cited statistic in online education is MOOC completion rates — typically 3-15% (Jordan, 2015). This number is sometimes used to argue that online learning "doesn't work." But it's more accurate to say that *self-paced, no-stakes, no-community online learning* has low completion.
 
-Cohort-based paid courses with active facilitation regularly achieve 70-90% completion rates. The mechanism isn't mysterious — it's exactly what the learning science predicts. Social presence, structured pacing, accountability, and peer interaction create the conditions under which adult learners follow through.
+Cohort-based paid courses with active facilitation regularly achieve [70-90% completion rates](/learning-design/why-online-course-completion-rates-are-low/). The mechanism isn't mysterious — it's exactly what the learning science predicts. Social presence, structured pacing, accountability, and peer interaction create the conditions under which adult learners follow through.
 
 This is why we designed [Ruzuku's course structure](https://www.ruzuku.com/how-it-works) around step-by-step progression with built-in discussion — not as a product decision, but as a direct application of what the research shows works.
 

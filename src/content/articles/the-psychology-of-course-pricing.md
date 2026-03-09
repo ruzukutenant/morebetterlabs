@@ -67,7 +67,7 @@ Your pricing strategy needs to either match the reference price or deliberately 
 
 **Recategorizing:** If your course is fundamentally different from what the buyer has experienced before — a cohort-based transformation program rather than a self-paced content library — you can establish a different reference category entirely. "This isn't an online course. It's a 12-week intensive coaching program that happens to be delivered online." The reference price for coaching ($200-500/hour) is dramatically different from the reference price for a course ($50-500 total).
 
-In [*The Business of Courses*](https://www.amazon.com/Business-Courses-Abe-Crystal/dp/1737374218), I wrote extensively about how transformation-oriented framing changes the pricing conversation. When students pay for a specific outcome ("launch your first course in 30 days") rather than access to content ("12 modules on course creation"), their reference price shifts from the content category to the outcome category — and outcomes are worth significantly more.
+In [*The Business of Courses*](https://www.amazon.com/Business-Courses-Abe-Crystal/dp/1737374218), I wrote extensively about how transformation-oriented framing changes the pricing conversation. When students pay for a specific outcome ("launch your first course in 30 days") rather than access to content ("12 modules on course creation"), their reference price shifts from the content category to the outcome category — and outcomes are worth significantly more. For a methodology on defining those outcomes, see [How to Define Measurable Outcomes](/learning-design/how-to-define-measurable-outcomes/).
 
 ## The Endowment Effect and Free Trials
 
@@ -88,7 +88,7 @@ At UCLA and in my work at NC State's DESIGN Research group, I've explored how de
 A well-priced course:
 - **Creates commitment** through investment (sunk cost motivation)
 - **Signals quality** through price-quality inference
-- **Filters for seriousness** — students who pay more are more likely to be genuinely ready to do the work
+- **Filters for seriousness** — students who pay more are more likely to be genuinely ready to do the work (related: [why less content means better learning](/learning-design/the-minimum-viable-course/))
 - **Enables support** — higher prices fund better facilitation, more instructor feedback, smaller cohort sizes
 
 A mis-priced course (usually underpriced):

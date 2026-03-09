@@ -123,7 +123,7 @@ Once you have a learner persona, every course design decision has a reference po
 | **Community** | Optional discussion forum | Structured peer support matched to the learner's needs |
 | **Tone** | Expert-to-novice lecture | Guided conversation that respects prior experience |
 
-The persona isn't a creative writing exercise. It's a design tool. Every time you're unsure about a course design decision, return to the persona: "Would this work for *this* person, in *their* context, with *their* constraints?"
+The persona isn't a creative writing exercise. It's a design tool — and it connects directly to [escaping the two traps](/learning-design/the-two-traps-that-kill-online-courses/) that kill most courses. Every time you're unsure about a course design decision, return to the persona: "Would this work for *this* person, in *their* context, with *their* constraints?"
 
 This connects directly to outcome-focused design. Your [measurable outcomes](/learning-design/how-to-define-measurable-outcomes/) should be outcomes that *your specific learner* can achieve, given *their* starting point, *their* constraints, and *their* motivation. A generic outcome ("master email marketing") becomes a specific one ("send your first 5-email nurture sequence and enroll 3 students") when it's grounded in a learner persona.
 
